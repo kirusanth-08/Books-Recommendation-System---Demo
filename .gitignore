@@ -1,0 +1,38 @@
+# Virtual environment
+env/
+
+# IDE files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local development settings
+*.sqlite3
+*.env
+
+# Dependency directories
+# Python
+lib/
+lib64/
+bin/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*~
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore credentials and sensitive information (modify as per your needs)
+# Example:
+config.json
+secrets.json
