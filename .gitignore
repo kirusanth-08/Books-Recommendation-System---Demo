@@ -36,3 +36,7 @@ Thumbs.db
 # Example:
 config.json
 secrets.json
+
+
+# Excluding data folder
+data/
