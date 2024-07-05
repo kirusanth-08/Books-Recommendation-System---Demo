@@ -40,3 +40,6 @@ secrets.json
 
 # Excluding data folder
 data/
+
+#Excliding the models
+artifacts/
